@@ -2,7 +2,6 @@
 
 A simplified Flight Search & Booking app (React + TypeScript + Redux Toolkit + Node.js + MongoDB + JWT).
 
-> **Status:** Local-ready. Run the backend + frontend, seed the DB, and use the provided Playwright script to generate screenshots automatically (or take them manually).
 
 ---
 
@@ -78,3 +77,4 @@ You will be redirected to Booking Success page showing booking details.
 ![alt text](<Available Flight.JPG>)
 
 ![alt text](<Booking Successful.JPG>)
+
